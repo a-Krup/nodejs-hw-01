@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "c35e4570-bc3d-497c-8df5-6419979396f0",
+    "name": "Ed Ullrich",
+    "phone": "1-555-624-5450 x13971",
+    "email": "Webster_Wisozk41@hotmail.com",
+    "job": "Global Program Manager"
+  },
+  {
+    "id": "3a58fd64-4076-4ac8-888f-547f27157f05",
+    "name": "Carol Simonis DDS",
+    "phone": "1-693-792-9832",
+    "email": "Melba_Lockman@hotmail.com",
+    "job": "Legacy Division Officer"
+  },
+  {
+    "id": "7f5f5893-957e-449c-80f4-bf8182230e5a",
+    "name": "Jaime Schmeler III",
+    "phone": "1-264-257-2420",
+    "email": "Clifton6@yahoo.com",
+    "job": "Principal Research Planner"
+  },
+  {
+    "id": "dc4e7250-cd8b-4a95-af7b-458b42a28e40",
+    "name": "Bertha Hand",
+    "phone": "963.305.2975 x4765",
+    "email": "Anastasia.Purdy@gmail.com",
+    "job": "Dynamic Branding Designer"
+  },
+  {
+    "id": "38443944-3e28-4dcc-898b-27385b57967f",
+    "name": "Ms. Stacy Spencer",
+    "phone": "533-296-4077 x04189",
+    "email": "Hassie22@gmail.com",
+    "job": "Global Response Specialist"
+  },
+  {
+    "id": "9c6e4263-5ecc-412d-b685-9d6a47f4b5ec",
+    "name": "Ignacio Doyle",
+    "phone": "796-467-4030 x30436",
+    "email": "Mitchel82@gmail.com",
+    "job": "Global Interactions Coordinator"
+  }
+]
